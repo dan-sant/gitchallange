@@ -1,0 +1,10 @@
+git init - cria repo
+git status - mostra stts dos arquivos no repo
+git config --global - config globais
+git clone - clona repo
+git push - repo on de laine
+git pull - puxa commit + recente
+git add - adc arquivo ao stage do git, aguardando commit
+git commit - commita k
+git remote add NOME URL - caminho do push, sera enviado para URL e chamado por NOME
+
