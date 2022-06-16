@@ -3,6 +3,6 @@ Desafio de projeto sobre Git/GitHub
 
 ## Links Úteis
 
-[Sintaxe Markdown](https://www.markdownguide.org/getting-started/)
+[Sintaxe Markdown](https://www.markdownguide.org/basic-syntax/)
 
 
